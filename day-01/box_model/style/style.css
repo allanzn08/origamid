@@ -1,0 +1,14 @@
+div {
+  background-color: #aaa;
+  width: 80px;
+  height: 30px;
+  padding: 20px;
+  border: 10px solid black;
+  margin: 25px;
+}
+h1 {
+  background-color: rebeccapurple;
+  color: red;
+  padding: 25px;
+  border: 1px solid black;
+}
